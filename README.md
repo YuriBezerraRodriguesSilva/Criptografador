@@ -56,6 +56,8 @@ OBS: O log é criando na mesma parte onde o main.exe está.
 - Biblioteca: `stdio.h`
 - Programas/Sites: Visual Studio Code, OneCompiler
 
+OBS: O código foi escrito majoritariamente no OneCompiler, e em seguida o transcrevemos para o VS Code.
+
 ## Considerações finais
 
 O projeto nos permitiu aplicar conceitos básicos de programação em C na criação de um sistema de criptografia básico, enquanto a utilização de duas etapas, SHIFT e Progressão Geométrica, permitiu trabalhar com operações matemáticas, vetores, funções e manipulação de arquivos em um único programa.
