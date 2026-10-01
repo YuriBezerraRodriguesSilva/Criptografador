@@ -1,0 +1,8 @@
+(Log de execucao)
+
+Palavra original: Ferdinande
+Palavra codificada: OvWS1Yhy0b
+Quantidade de letras: 10
+Valor do SHIFT: 5
+Primeiro termo da PG: 4
+Razão da PG: 3
