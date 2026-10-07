@@ -82,7 +82,7 @@ int main() {
     } // Verifica se houve algum erro ao criar o arquivo.
     
 
-    fprintf(arquivo, "(Log de execucao)\n\n"); // Escreve o título do log.
+    fprintf(arquivo, "(Log de execução)\n\n"); // Escreve o título do log.
     fprintf(arquivo, "Palavra original: %s\n", palavraOriginal); // Registra a palavra antes da criptografia.
     fprintf(arquivo, "Palavra codificada: %s\n", palavra); // Registra a palavra após as duas camadas.
     fprintf(arquivo, "Quantidade de letras: %d\n", quantidadeLetras); // Registra a quantidade de caracteres da palavra.
