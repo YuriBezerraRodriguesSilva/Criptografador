@@ -5,6 +5,11 @@ Este projeto foi projetado em C, como uma atividade acadêmica de criação de u
 
 O programa recebe uma palavra de até 15 caracteres, um valor de SHIFT, e parâmetros de uma Progressão Geométrica (PG). A palavra passa por duas etapas de criptografia e, no final, o programa gera um arquivo `.txt` com o registro da execução.
 
+## Grupo
+- Yuri Bezerra Rodrigues Silva (RGM 47674628)
+- Theo Carlo Oliveira Mosesto (RGM 47676850)
+- Lucas Trevezan Lima (RGM 47656395)
+
 ## Objetivo
 
 O objetivo do projeto é aplicar conceitos básicos de programação em C, como:
